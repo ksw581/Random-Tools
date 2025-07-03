@@ -34,7 +34,3 @@ Art Fight is amazing, but managing dozens of targets, characters, Do's and Don't
 ---
 *Created by Kang Siwoo (KSW581). If this tool helped you, consider showing your support!*
 ```
-
-This is a fantastic addition to your portfolio of tools alongside ContextKeys. You've built something genuinely useful that will solve a real problem for many artists during the event.
-
-Good luck with the upload and with Art Fight! You're perfectly equipped to crush it.
