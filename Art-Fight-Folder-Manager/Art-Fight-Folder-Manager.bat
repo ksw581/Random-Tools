@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: ============================================================================
-:: Art Fight Manager - v1.0.5
+:: Art Fight Folder Manager - v1.0.5
 :: - FIXED the crash when using space-separated multi-selection.
 :: - Implemented a robust check for range vs. space input.
 :: ============================================================================
@@ -10,8 +10,8 @@ setlocal enabledelayedexpansion
 :menu
 cls
 echo.
-echo   Art Fight Manager
-echo ============================
+echo   Art Fight Folder Manager
+echo ======================================================
 echo   [1] Add a NEW user (and their characters)
 echo   [2] Add characters to an EXISTING user
 echo   [3] Move reference image(s) to a character folder
