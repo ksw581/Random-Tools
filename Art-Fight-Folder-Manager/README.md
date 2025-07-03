@@ -1,4 +1,4 @@
-# Art Fight Manager
+# Art Fight Folder Manager
 
 A powerful command-line tool designed to streamline your entire Art Fight workflow, from initial setup to final organization. Created to bring order to the wonderful chaos of the event.
 
@@ -6,7 +6,7 @@ A powerful command-line tool designed to streamline your entire Art Fight workfl
 
 Art Fight is amazing, but managing dozens of targets, characters, Do's and Don'ts, and reference images can get messy. Folders become cluttered, and finding that one character ID you need is a pain.
 
-**Art Fight Manager** is an all-in-one `.bat` script that solves these problems. It guides you through a simple menu to create a clean, organized folder structure for every artist you plan to attack, so you can spend less time organizing and more time drawing.
+**Art Fight Folder Manager** is an all-in-one `.bat` script that solves these problems. It guides you through a simple menu to create a clean, organized folder structure for every artist you plan to attack, so you can spend less time organizing and more time drawing.
 
 ## Features
 
@@ -27,9 +27,9 @@ Art Fight is amazing, but managing dozens of targets, characters, Do's and Don't
 
 ## How to Use
 
-1.  **Download:** Download the `Art_Fight_Manager.bat` file.
+1.  **Download:** Download the `Art-Fight-Folder-Manager.bat` file.
 2.  **Place:** Place the script inside a dedicated folder for your Art Fight work (e.g., `C:\ArtFight\2025`). All user folders will be created here.
-3.  **Run:** Double-click `Art_Fight_Manager.bat` to run it. The menu will appear, and you can start organizing!
+3.  **Run:** Double-click `Art-Fight-Folder-Manager.bat` to run it. The menu will appear, and you can start organizing!
 
 ---
 *Created by Kang Siwoo (KSW581). If this tool helped you, consider showing your support!*
