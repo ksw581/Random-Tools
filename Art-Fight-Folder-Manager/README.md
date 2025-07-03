@@ -31,6 +31,10 @@ Art Fight is amazing, but managing dozens of targets, characters, Do's and Don't
 2.  **Place:** Place the script inside a dedicated folder for your Art Fight work (e.g., `C:\ArtFight\2025`). All user folders will be created here.
 3.  **Run:** Double-click `Art-Fight-Folder-Manager.bat` to run it. The menu will appear, and you can start organizing!
 
+
+https://github.com/user-attachments/assets/54bcf893-a8d2-4b6b-863e-d546944c061a
+
+
 ---
 *Created by Kang Siwoo (KSW581). If this tool helped you, consider showing your support!*
 ```
