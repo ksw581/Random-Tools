@@ -27,7 +27,6 @@ goto menu
 
 :: ============================================================================
 :new_user_setup
-:: (This section is unchanged)
 cls
 echo. & echo --- [1] New User Setup --- & echo. & set /p "target=Enter new target USERNAME: "
 if not defined target goto menu
@@ -53,7 +52,6 @@ goto character_loop
 
 :: ============================================================================
 :existing_user_select
-:: (This section is unchanged)
 cls
 echo. & echo --- [2] Select Existing User --- & echo.
 set "count=0"
@@ -68,7 +66,6 @@ goto character_loop
 
 :: ============================================================================
 :character_loop
-:: (This section is unchanged)
 :inner_char_loop
 cls
 echo. & echo --- Adding Characters for [!target!] --- & echo    (Press Enter on a blank name to finish) & echo.
@@ -88,7 +85,7 @@ echo. & echo   Character [!char_name!] added successfully. & pause
 goto inner_char_loop
 
 :: ============================================================================
-:: THIS IS THE FIXED AND UPGRADED SECTION
+:: THIS IS THE FIXED
 :: ============================================================================
 :move_image
 cls
